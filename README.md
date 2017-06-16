@@ -1,4 +1,4 @@
-## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
+﻿## Fast Style Transfer in [TensorFlow](https://github.com/tensorflow/tensorflow)
 
 Add styles from famous paintings to any photo in a fraction of a second! [You can even style videos!](#video-stylization)
 
@@ -87,15 +87,6 @@ You will need the following to run the above:
   - All the required NVIDIA software to run TF on a GPU (cuda, etc)
 - ffmpeg 3.1.3 if you want to stylize video
 
-### Citation
-```
-  @misc{engstrom2016faststyletransfer,
-    author = {Logan Engstrom},
-    title = {Fast Style Transfer},
-    year = {2016},
-    howpublished = {\url{https://github.com/lengstrom/fast-style-transfer/}},
-    note = {commit xxxxxxx}
-  }
 ```
 ### Attributions/Thanks
 - This project could not have happened without the advice (and GPU access) given by [Anish Athalye](http://www.anishathalye.com/). 
@@ -103,6 +94,4 @@ You will need the following to run the above:
 - Some readme/docs formatting was borrowed from Justin Johnson's [Fast Neural Style](https://github.com/jcjohnson/fast-neural-style)
 - The image of the Stata Center at the very beginning of the README was taken by [Juan Paulo](https://juanpaulo.me/)
 
-### License
-Copyright (c) 2016 Logan Engstrom. Contact me for commercial use (email: engstrom at my university's domain dot edu). Free for research/noncommercial use, as long as proper attribution is given and this copyright notice is retained.
 
